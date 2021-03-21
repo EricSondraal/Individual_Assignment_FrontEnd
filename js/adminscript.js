@@ -2,7 +2,7 @@ let questionCount = 0;
 let currentAnswerAmount = [];
 
 let xhttp = new XMLHttpRequest();
-const endPoint = "http://localhost:5000/";
+const endPoint = "https://ericsondraalass1backend.herokuapp.com/";
 
 
 
